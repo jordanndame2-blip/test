@@ -1,11 +1,17 @@
-# PrepForFuture — livrables promotionnels
+# PrepForFuture — vidéo avec voix off et contacts
 
-- [Télécharger la vidéo MP4](https://github.com/jordanndame2-blip/test/raw/refs/heads/main/PrepForFuture.mp4)
+- [Télécharger la vidéo MP4 avec le son](https://github.com/jordanndame2-blip/test/raw/refs/heads/main/PrepForFuture-avec-son.mp4)
 - [Télécharger tous les fichiers ZIP](https://github.com/jordanndame2-blip/test/raw/refs/heads/main/PrepForFuture-complet.zip)
 
 Si le dépôt est privé, connectez-vous au compte GitHub autorisé pour télécharger les fichiers.
 
-La vidéo dure 45 secondes, en 1080 × 1920. Elle est sans audio. Le texte de la voix off et les sous-titres sont fournis dans l’archive, avec le projet HTML autonome, le flyer PNG et le flyer PDF.
+## Vidéo mise à jour
+
+Vidéo verticale de **40 secondes**, **1080 × 1920**, H.264 avec audio AAC. La voix off fournie est intégrée à vitesse naturelle, avec un volume harmonisé. Aucune musique ajoutée.
+
+**Appels, WhatsApp et réservations : 690 48 15 07 et 694 03 35 39.** Les coordonnées apparaissent pendant le montage et sur l’écran final.
+
+L’archive contient le MP4, un lecteur HTML autonome avec son et bouton de téléchargement MP4, les sous-titres SRT, le texte de narration, ainsi que les flyers PNG et PDF précédents. Les nouveaux numéros sont ajoutés à la vidéo ; les flyers restent dans leur version précédente.
 
 L’animation utilise une illustration générée. Les captures originales de l’application ne sont pas intégrées. Aucune donnée personnelle du rapport pédagogique n’est incluse.
 
