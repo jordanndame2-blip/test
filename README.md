@@ -1,21 +1,22 @@
-# PrepForFuture — présentation interactive et vidéo
+# PrepForFuture — version avec la nouvelle voix off
 
-- [Télécharger le MP4 actualisé avec le son](https://github.com/jordanndame2-blip/test/raw/refs/heads/main/PrepForFuture-interactif.mp4)
+- [Télécharger la vidéo finale MP4 avec le son](https://github.com/jordanndame2-blip/test/raw/refs/heads/main/PrepForFuture-version-finale.mp4)
 - [Télécharger la présentation HTML interactive](https://github.com/jordanndame2-blip/test/raw/refs/heads/main/PrepForFuture-interactif.html)
-- [Lire le nouveau script de voix off](Nouveau-script-voix-off.txt)
 - [Télécharger le dossier complet](https://github.com/jordanndame2-blip/test/raw/refs/heads/main/PrepForFuture-complet.zip)
+- [Lire le script de narration](Nouveau-script-voix-off.txt)
+- [Sous-titres SRT](Sous-titres.srt)
 
 Si nécessaire, connectez-vous au compte GitHub ayant accès au dépôt. Pour le HTML, enregistrez le fichier puis ouvrez-le dans un navigateur ; l’aperçu GitHub ne lance pas la présentation.
 
-## Nouveautés
+## Vidéo et interactivité
+
+Vidéo de **45 secondes**, **1080 × 1920**, H.264 avec audio AAC. La nouvelle voix off fournie est intégrée à sa vitesse naturelle, avec un volume harmonisé. Les scènes, les sous-titres et les chapitres sont recalés sur cette narration.
 
 - Plus de 50 séries de compréhension écrite.
 - Plus de 50 séries de compréhension orale.
 - Une multitude de sujets d’expression orale disponibles avec correction.
 
-La vidéo de 40 secondes (1080 × 1920, H.264/AAC) présente ces nouveautés par des animations. Elle conserve la voix off fournie, qui ne prononce pas ces ajouts. Le nouveau script complet est prêt à réenregistrer. Les sous-titres suivent la voix actuelle.
-
-Le fichier HTML autonome contient la vidéo et le son. Ses rubriques cliquables changent la présentation et ouvrent le passage correspondant de la vidéo. Les boutons Appeler, WhatsApp et Inscris-toi ouvrent les services concernés. Le MP4 reste une vidéo linéaire, sans boutons cliquables.
+Le HTML autonome contient la vidéo et le son. Les rubriques cliquables changent le contenu affiché et ouvrent le passage correspondant. Les boutons Appeler, WhatsApp et Inscris-toi ouvrent les services concernés. Le MP4 reste une vidéo linéaire, sans boutons cliquables.
 
 ## Offre et contacts
 
@@ -27,4 +28,4 @@ Objectif : viser quatre C2 au TCF Canada, sans résultat garanti. Entraîne-toi 
 
 Site : https://prepforfuture.com
 
-L’archive contient le MP4, le HTML autonome, les scripts de narration, le SRT, les sources du montage et les flyers précédents. Les flyers n’ont pas été modifiés pour cette mise à jour. Aucune musique ajoutée. Photo d’illustration générée ; les captures originales de l’application ne sont pas intégrées. Aucune donnée du rapport personnel n’est utilisée.
+L’archive contient le MP4, le HTML autonome, le texte de narration, le SRT, les sources visuelles du montage et les flyers précédents. Les flyers n’ont pas été modifiés pour cette mise à jour. Aucune musique ajoutée. Photo d’illustration générée ; les captures originales de l’application ne sont pas intégrées. Aucune donnée du rapport personnel n’est utilisée.
